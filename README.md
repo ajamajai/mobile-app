@@ -2,9 +2,11 @@
 
 A simple Flutter mobile app for registering, logging in, and viewing tasks.  
 
-![Sign In Screen](assets/screenshots/sign_in_screen.png)
-![Sign Up Screen](assets/screenshots/sign_up_screen.png)
-![Home Screen](assets/screenshots/home_screen.png)
+<div style="display: flex;">
+<img src="mobile-app/assets/screenshots/sign_in_screen.png" width="100">
+<img src="mobile-app/assets/screenshots/sign_up_screen.png" width="100">
+<img src="mobile-app/assets/screenshots/home_screen.png" width="100">
+</div>
 
 ## Features
 - Sign in & sign up
